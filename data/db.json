@@ -1,0 +1,65 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Aziz",
+            "password": "Azerty123",
+            "color": "blue",
+            "pionNumber": 0,
+            "score": 0,
+            "gameLimit": 7,
+            "winNumber": 18,
+            "lostNumber": 21
+        },
+        {
+            "id": 2,
+            "username": "Ereby",
+            "password": "Qwerty123",
+            "color": "red",
+            "pionNumber": 1,
+            "score": 0,
+            "gameLimit": 7,
+            "winNumber": 21,
+            "lostNumber": 18
+        }
+    ],
+    "party": {
+        "tourNumber": 39,
+        "isFilling": true,
+        "isMoving": false,
+        "isCuting": false,
+        "tourId": 2
+    },
+    "pions": {
+        "case0": "grey",
+        "case1": "grey",
+        "case2": "grey",
+        "case3": "grey",
+        "case4": "grey",
+        "case5": "grey",
+        "case6": "grey",
+        "case7": "grey",
+        "case8": "grey",
+        "case9": "grey",
+        "case10": "grey",
+        "case11": "grey",
+        "case12": "grey",
+        "case13": "grey",
+        "case14": "grey",
+        "case15": "grey",
+        "case16": "grey",
+        "case17": "grey",
+        "case18": "grey",
+        "case19": "grey",
+        "case20": "grey",
+        "case21": "grey",
+        "case22": "grey",
+        "case23": "grey",
+        "case24": "grey",
+        "case25": "grey",
+        "case26": "grey",
+        "case27": "grey",
+        "case28": "grey",
+        "case29": "grey"
+    }
+}
